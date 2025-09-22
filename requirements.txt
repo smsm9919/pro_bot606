@@ -4,3 +4,4 @@ ccxt>=4.3.0
 python-dotenv
 gunicorn
 colorama
+termcolor
